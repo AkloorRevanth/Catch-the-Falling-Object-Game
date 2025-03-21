@@ -35,7 +35,7 @@
 - Implement touch controls for mobile devices
 
 ## Author
-[Akloor Revanth]
+Akloor Revanth
 
 ## License
 This project is open-source and can be modified and distributed freely.
